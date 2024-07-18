@@ -15,3 +15,13 @@ canvas {
     background: #0e0e0e;
 }
 
+#goku-image {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 200px;
+    height: auto;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+
